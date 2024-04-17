@@ -1,0 +1,39 @@
+
+.light-theme {
+  background-color: #fff;
+  color: #333;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.light-theme .btn {
+  background-color: #161616; 
+  color: #fff;
+  font-weight: bold;
+  max-width: 200px;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.dark-theme .btn {
+  background-color: #6c757d; 
+  color: #fff;
+  font-weight: bold;
+  max-width: 200px;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
